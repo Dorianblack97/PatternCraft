@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternCraft_Decorator", "PatternCraft_Decorator\PatternCraft_Decorator.csproj", "{67A388BF-832B-4EF6-90DF-92C8BCE091C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternCraft_Adapter", "PatternCraft_Adapter\PatternCraft_Adapter.csproj", "{579C51E3-4A71-4AB1-B5C8-0ADCFB39F974}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternCraft_Visitor", "PatternCraft_Visitor\PatternCraft_Visitor.csproj", "{5020BA7C-903E-48AB-9042-042EBD69BD74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternCraft_State", "PatternCraft_State\PatternCraft_State.csproj", "{BD5D877D-B759-4F3C-A282-6DCF94FCEB78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternCraft_Strategy", "PatternCraft_Strategy\PatternCraft_Strategy.csproj", "{F30FE503-9497-47B9-B859-317E88476A2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67A388BF-832B-4EF6-90DF-92C8BCE091C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A388BF-832B-4EF6-90DF-92C8BCE091C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A388BF-832B-4EF6-90DF-92C8BCE091C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A388BF-832B-4EF6-90DF-92C8BCE091C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{579C51E3-4A71-4AB1-B5C8-0ADCFB39F974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579C51E3-4A71-4AB1-B5C8-0ADCFB39F974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579C51E3-4A71-4AB1-B5C8-0ADCFB39F974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579C51E3-4A71-4AB1-B5C8-0ADCFB39F974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5020BA7C-903E-48AB-9042-042EBD69BD74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5020BA7C-903E-48AB-9042-042EBD69BD74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5020BA7C-903E-48AB-9042-042EBD69BD74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5020BA7C-903E-48AB-9042-042EBD69BD74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD5D877D-B759-4F3C-A282-6DCF94FCEB78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5D877D-B759-4F3C-A282-6DCF94FCEB78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5D877D-B759-4F3C-A282-6DCF94FCEB78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5D877D-B759-4F3C-A282-6DCF94FCEB78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F30FE503-9497-47B9-B859-317E88476A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30FE503-9497-47B9-B859-317E88476A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30FE503-9497-47B9-B859-317E88476A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30FE503-9497-47B9-B859-317E88476A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FF7119B-26C0-4FE1-A607-D5F4ACA22640}
+	EndGlobalSection
+EndGlobal
